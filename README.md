@@ -12,6 +12,8 @@ You will be able to:
 * Prepare training and testing data for modeling
 * Compare training and testing errors to determine if model is over or underfitting
 
+# Check the index.ipynb file for my workings
+
 ## Let's Use Our Ames Housing Data Again!
 
 We included the code to load the data below.
